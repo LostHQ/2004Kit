@@ -23,7 +23,7 @@ Launch tools in their own window/tab:
 ### Quick Setup
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Razgals/2004Kit.git
    cd 2004scape-toolkit
    ```
 
