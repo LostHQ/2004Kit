@@ -24,7 +24,7 @@ Launch tools in their own window/tab:
 1. Clone this repository:
    ```bash
    git clone https://github.com/Razgals/2004Kit.git
-   cd 2004scape-toolkit
+   cd #Your 2004Kit folder path
    ```
 
 2. Install dependencies:
