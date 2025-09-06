@@ -38,7 +38,7 @@ Launch tools in their own window/tab:
    ```
 
 ### Alternative: Standalone Executable
-If you prefer not to install Python, download the pre-compiled `.exe` file from the [Releases](https://github.com/your-username/your-repo/releases) page. The executable runs without requiring Python or any dependencies to be installed.
+If you prefer not to install Python, download the pre-compiled `.exe` file from the [Releases]([https://github.com/your-username/your-repo/releases](https://github.com/Razgals/2004Kit/releases) page. The executable runs without requiring Python or any dependencies to be installed.
 
 ### Troubleshooting
 - **Linux users**: You may need to install system Qt6 libraries: `sudo apt install qt6-webengine-dev`
