@@ -1,0 +1,10 @@
+# 2004Scape Toolkit Requirements
+# Python 3.9+ required
+
+PyQt6>=6.4.0
+PyQt6-WebEngine>=6.4.0
+
+# Note: PyQt6-WebEngine automatically installs:
+# - PyQt6-WebEngine-Qt6 (Qt6 WebEngine binaries)
+# - SIP (Python-C++ bindings)
+# - PyQt6 dependencies if not already present
