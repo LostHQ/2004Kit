@@ -4,7 +4,7 @@ It runs the original client, but adds a set of built-in tools designed for playe
 
 Simple, functional, and made to enhance the gameplay.
 
-⚠️ Note: Stability hasn’t been thoroughly tested—use at your own responsibility.
+⚠️ Note: In "High Detail" mode there’s a music bug I haven’t been able to fix yet, so I’ve set it to open straight into the "Low Detail" world select instead. Sound effects still work fine in "High Detail", though.
 
 **Special thanks to the 2004HQ website creators and contributors, and to the LostCity development team for keeping the nostalgia alive!**
 
