@@ -69,7 +69,7 @@ class MainWindow(QMainWindow):
         self.tab_widget.tabCloseRequested.connect(self.close_browser_tab)
         
         # Game view tab (always present)
-        self.game_view = GameViewWidget("https://2004.lostcity.rs/detail")
+        self.game_view = GameViewWidget("https://2004.lostcity.rs/serverlist?lores.x=55&lores.y=62&method=0")
         self.game_view.setZoomFactor(self.config.get("zoom_factor", 1.0))
         self.tab_widget.addTab(self.game_view, "⚔️ LostCity")
         
@@ -233,4 +233,5 @@ class MainWindow(QMainWindow):
             # Not on Windows or missing modules
             pass
         except Exception as e:
+
             print(f"Warning: Could not apply window styling: {e}")
